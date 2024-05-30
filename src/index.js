@@ -6,3 +6,10 @@ import './style.css';
 //     const myIcon = new Image();
 //     myIcon.src = Icon;
 //     element.appendChild(myIcon);
+
+
+
+// ------ MAIN HEADING ------
+// -- Heading --
+// -> this is a comment for a function
+// normal comment
