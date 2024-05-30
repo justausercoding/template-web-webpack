@@ -8,6 +8,27 @@
 
 <br>
 
+## Standards
+
+### General
+- nest as little as necessary
+- use comments to organize the code
+
+
+### CSS
+- styling guide: https://github.com/airbnb/css
+- DRY
+- do not nest to deep (only logical sections)
+- use multiple stylesheets (if necessary)
+- use a CSS reset
+- naming: 
+    first-level: first letter upper case
+
+### JS
+- styling guide: https://github.com/airbnb/javascript
+
+<br>
+
 ## Important
 
 ### package.json
