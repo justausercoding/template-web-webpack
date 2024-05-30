@@ -1,3 +1,11 @@
+# Project name
+**✏️ TODO**:
+- Update this README file
+- Delete everything from here:
+
+✂︎ - - - - - - - - - -
+
+
 # Web template for webpack
 
 ## Steps
